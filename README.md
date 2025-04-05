@@ -1,0 +1,1 @@
+In this code we using xg boost and annova f prediction algorithms to comapre and find whether the predicting capacity of static methods are better or dynamic more details can be found in research paper and it has been published at RMBS symposium
